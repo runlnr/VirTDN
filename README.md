@@ -1,4 +1,4 @@
-This is a project where my team planned on maping the Tran Dai Nghia high school for the gifted into Unity Game Engine and implement a little bit of movement into it using C# and this is how it turned out.
+(CURRENLY IN DEVELOPMENT)
 
 Dev log:
 
